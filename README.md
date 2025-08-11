@@ -1,4 +1,8 @@
-# 👋 Hi, I am Nipun Shetty
+<h1 align="center">👋Hi, I am Nipun Shetty</h1>
+<h3 align="center">Developer · Problem Solver · Explorer</h3>
+
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=This%20is%20my%20readme&fontSize=70)
+
 
 A curious developer exploring web, mobile, and backend development.
 I enjoy building projects that solve real problems, experimenting with new tech, and constantly learning along the way.
