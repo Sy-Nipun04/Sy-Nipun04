@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&desc=Hello%20render&fontSize=90)
+
 # 👋 Hi, I am Nipun Shetty
 
 A curious developer exploring web, mobile, and backend development.
