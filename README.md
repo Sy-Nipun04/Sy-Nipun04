@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=This%20is%20my%20readme&fontSize=70)
-
 # 👋 Hi, I am Nipun Shetty
 
 A curious developer exploring web, mobile, and backend development.
