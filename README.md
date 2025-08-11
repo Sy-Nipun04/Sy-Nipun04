@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&desc=Hello%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=This%20is%20my%20readme&fontSize=70)
 
 # 👋 Hi, I am Nipun Shetty
 
