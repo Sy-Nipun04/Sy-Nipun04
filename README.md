@@ -4,8 +4,14 @@
   <img src="https://github.com/Sy-Nipun04.png" width="100%" style="border-radius:10px; border:2px solid #2a475e"/>
 </td>
 <td valign="top" style="padding-left:15px;">
-  <h1 style="margin:0;">Nipun Shetty</h1>
-  <b>Developer · Problem Solver · Explorer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</b>
+  <h1 style="margin:0;">
+    Nipun Shetty
+  </h1>
+  <b>
+    Developer · Problem Solver · Explorer
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  </b>
 </td>
 </tr>
 </table>
@@ -32,7 +38,8 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
-          &emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         </div>
       </td>
     </tr>
@@ -47,7 +54,8 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/>
-          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         </div>
       </td>
     </tr>
@@ -66,6 +74,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/>
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         </div>
       </td>
     </tr>
@@ -82,7 +91,8 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/>
-          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         </div>
       </td>
     </tr>
@@ -97,7 +107,8 @@
           <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="55" height="55"/>
           <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="55" height="55"/>
           <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="55" height="55"/>
-          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         </div>
       </td>
     </tr>
@@ -106,23 +117,43 @@
 
 <!-- GitHub Stats section -->
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
- <h3>🏆 GitHub Stats</h3>
-  <table>
+  <h3>🏆 GitHub Stats</h3>
+  <table align="center">
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sy-Nipun04&theme=react" style="width:308px;" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sy-Nipun04&theme=react" style="width:308px;" /></td>
+      <td>
+        <div style="text-align:center;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sy-Nipun04&theme=react" width="400"/>
+        </div>
+      </td>
+      <td>
+        <div style="text-align:center;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sy-Nipun04&theme=react" width="400"/>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
   <h3>Projects Showcase</h3>
-  <a href="https://github.com/Sy-Nipun04/project-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=project-manager&theme=transparent" width="300"/>
-  </a>
-  <a href="https://github.com/Sy-Nipun04/media-shelf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=media-shelf&theme=transparent" width="300"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td>
+         <div style="text-align:center; margin-bottom:10px;">
+            <a href="https://github.com/Sy-Nipun04/project-manager">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=project-manager&theme=react" width="500"/>
+            </a>
+          </div>
+      </td>
+      <td>
+        <div style="text-align:center;">
+          <a href="https://github.com/Sy-Nipun04/media-shelf">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=media-shelf&theme=react" width="500"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 8px rgba(0,0,0,0.5); border-left:5px solid #66c0f4;">
