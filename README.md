@@ -1,8 +1,3 @@
-<table width="100%" style="background-color:#0b1a2b; border-radius:10px; color:#c6d4df; font-family:Arial, sans-serif;">
-<tr>
-<td width="66%" valign="top" style="padding:20px;">
-
-<!-- Profile header using table for horizontal alignment -->
 <table width="100%" style="margin-bottom:20px;">
 <tr>
 <td width="130" valign="top">
@@ -120,17 +115,6 @@
   </table>
 </div>
 
-</td>
-
-<td width="34%" valign="top" style="padding:20px;">
-
-<!-- Right Column (Steam-style panels) -->
-<div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
- <h3>🏆 GitHub Stats</h3>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sy-Nipun04&theme=transparent" style="width:300px;" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sy-Nipun04&theme=transparent" style="width:300px;" />
-</div>
-
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
   <h3>Projects Showcase</h3>
   <a href="https://github.com/Sy-Nipun04/project-manager">
@@ -145,8 +129,3 @@
   <h3 style="margin-top:0;">💬Status</h3>
   <p style="margin:5px 0; font-size:14px;">Currently learning to do magic with my computer🪄.</p>
 </div>
-
-
-</td>
-</tr>
-</table>
