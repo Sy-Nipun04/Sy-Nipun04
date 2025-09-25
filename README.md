@@ -1,7 +1,9 @@
 <table width="100%" style="margin-bottom:20px;">
 <tr>
 <td width="130" valign="top">
+  <br>
   <img src="https://github.com/Sy-Nipun04.png" width="100%" style="border-radius:10px; border:2px solid #2a475e"/>
+  &emsp;
 </td>
 <td valign="top" style="padding-left:15px;">
   <h1 style="margin:0;">
