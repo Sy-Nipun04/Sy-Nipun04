@@ -29,7 +29,7 @@
   <h3>💻 Tech Stack and Tools</h3>
   <table style="width:100%; border-collapse:collapse; margin-bottom:10px;">
     <tr>
-      <td style="width:150px; vertical-align:top;"><b>Languages</b></td>
+      <td style="width:150px; vertical-align:top;"><b>Languages</b>&emsp;&emsp;&emsp;&emsp;</td>
       <td style="width:100%;">
         <div style="display:flex; flex-wrap:wrap; gap:10px; width:100%;">
           <br>
@@ -87,7 +87,7 @@
 
   <table style="width:100%; border-collapse:collapse; margin-bottom:10px;">
     <tr>
-      <td style="width:150px; vertical-align:top;"><b>Developer Tools</b></td>
+      <td style="width:150px; vertical-align:top;"><b>Developer Tools</b>&emsp;&emsp;</td>
       <td style="width:100%;">
         <div style="display:flex; flex-wrap:wrap; gap:10px; width:100%;">
           <br>
@@ -106,7 +106,7 @@
 
   <table style="width:100%; border-collapse:collapse; margin-bottom:10px;">
     <tr>
-      <td style="width:150px; vertical-align:top;"><b>Other</b></td>
+      <td style="width:150px; vertical-align:top;"><b>Other</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
       <td style="width:100%;">
         <div style="display:flex; flex-wrap:wrap; gap:10px; width:100%;">
           <br>
