@@ -146,22 +146,23 @@
   <table align="center">
     <tr>
       <td>
-         <div style="text-align:center; margin-bottom:10px;">
-            <a href="https://github.com/Sy-Nipun04/project-manager">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=project-manager&theme=react" width="500"/>
-            </a>
-          </div>
+        <div style="text-align:center; margin-bottom:10px;">
+          <a href="https://github.com/Sy-Nipun04/project-manager">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=project-manager&theme=react&hide_border=true&bg_color=00000000" width="500"/>
+          </a>
+        </div>
       </td>
       <td>
         <div style="text-align:center;">
           <a href="https://github.com/Sy-Nipun04/media-shelf">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=media-shelf&theme=react" width="500"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=media-shelf&theme=react&hide_border=true&bg_color=00000000" width="500"/>
           </a>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 8px rgba(0,0,0,0.5); border-left:5px solid #66c0f4;">
   <h3 style="margin-top:0;">💬Status</h3>
