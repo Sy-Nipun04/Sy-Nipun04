@@ -122,27 +122,9 @@
   </table>
 </div>
 
-<!-- GitHub Stats section -->
+<!-- Projects Showcase Section -->
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
-  <h3>🏆 GitHub Stats</h3>
-  <table align="center">
-    <tr>
-      <td>
-        <div style="text-align:center;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sy-Nipun04&theme=react" width="400"/>
-        </div>
-      </td>
-      <td>
-        <div style="text-align:center;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sy-Nipun04&theme=react" width="400"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
-  <h3>Projects Showcase</h3>
+  <h3>🗃️ Projects Showcase</h3>
   <table align="center">
     <tr>
       <td>
@@ -163,6 +145,24 @@
   </table>
 </div>
 
+<!-- GitHub Stats section -->
+<div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
+  <h3>🏆 GitHub Stats</h3>
+  <table align="center">
+    <tr>
+      <td>
+        <div style="text-align:center;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sy-Nipun04&theme=react" width="400"/>
+        </div>
+      </td>
+      <td>
+        <div style="text-align:center;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sy-Nipun04&theme=react" width="400"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 8px rgba(0,0,0,0.5); border-left:5px solid #66c0f4;">
   <h3 style="margin-top:0;">💬Status</h3>
