@@ -123,27 +123,16 @@
 </div>
 
 <!-- Projects Showcase Section -->
-<div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
-  <h3>🗃️ Projects Showcase</h3>
-  <table align="center">
-    <tr>
-      <td>
-        <div style="text-align:center; margin-bottom:10px;">
-          <a href="https://github.com/Sy-Nipun04/project-manager">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=project-manager&theme=react&hide_border=true&bg_color=00000000" width="500"/>
-          </a>
-        </div>
-      </td>
-      <td>
-        <div style="text-align:center;">
-          <a href="https://github.com/Sy-Nipun04/media-shelf">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sy-Nipun04&repo=media-shelf&theme=react&hide_border=true&bg_color=00000000" width="500"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🌟 Featured Projects
+
+- 📁 **Project Manager** — A tool for organizing and managing projects efficiently  
+  [`Sy-Nipun04/project-manager`](https://github.com/Sy-Nipun04/project-manager)
+
+- 🎬 **Media Shelf** — A personal media tracking application for organizing watched/read content  
+  [`Sy-Nipun04/media-shelf`](https://github.com/Sy-Nipun04/media-shelf)
+
+- 🔐 **From the Vault** — CLI-based notes manager built in C++ with JSON storage and persistent file handling  
+  [`Sy-Nipun04/from-the-vault`](https://github.com/your-username/from-the-vault)
 
 <!-- GitHub Stats section -->
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
