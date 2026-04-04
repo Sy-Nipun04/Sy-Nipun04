@@ -132,7 +132,7 @@
   [`Sy-Nipun04/media-shelf`](https://github.com/Sy-Nipun04/media-shelf)
 
 - 🔐 **From the Vault** — CLI-based notes manager built in C++ with JSON storage and persistent file handling  
-  [`Sy-Nipun04/from-the-vault`](https://github.com/your-username/from-the-vault)
+  [`Sy-Nipun04/from-the-vault`](https://github.com/Sy-Nipun04/from-the-vault)
 
 <!-- GitHub Stats section -->
 <div style="background-color:#1b2838; padding:15px; border-radius:10px; margin-bottom:20px;">
